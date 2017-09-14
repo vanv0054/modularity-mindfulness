@@ -5,3 +5,20 @@ html {
 .logo {
   text-align: center;
 }
+
+nav a {
+  text-decoration: none;
+  color: #b64c6e;
+}
+
+a:hover {
+  color: #860927;
+}
+
+ {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+nav ul {
+  text-align: center;
+}
