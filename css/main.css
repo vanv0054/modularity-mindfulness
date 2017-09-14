@@ -48,10 +48,13 @@ i {
 }
 
 .txtundr {
-  border-bottom: solid 2px #000000;
+  border-bottom: solid 2px #000;
   display: inline;
-  padding-bottom: 3px;
   border-color: #d89fb0;
+}
+
+hr {
+  border-color: #e2e2e2;
 }
 
 @media only screen and (min-width: 60em) {
