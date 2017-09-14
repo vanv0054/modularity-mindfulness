@@ -1,5 +1,6 @@
 html {
   font-family: "Noto Sans Japanese", sans-serif;
+  font-family: 'Noto Sans', sans-serif;
 }
 
 .logo {
@@ -13,10 +14,6 @@ nav a {
 
 a:hover {
   color: #860927;
-}
-
- {
-  font-family: 'Noto Sans', sans-serif;
 }
 
 nav ul {
@@ -35,4 +32,10 @@ nav ul {
 
 footer {
   color: #e2e2e2;
+}
+
+@media only screen and (min-width: 60em) {
+
+
+
 }
