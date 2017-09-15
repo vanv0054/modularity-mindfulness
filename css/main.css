@@ -1,4 +1,4 @@
-html {
+html, .font-jp {
   font-family: "Noto Sans", sans-serif;
 }
 
@@ -35,10 +35,6 @@ nav ul {
   color: #b64c6e;
 }
 
-.quote {
-  text-align: center;
-}
-
 i {
   font-family: "Noto Sans Japanese", sans-serif;
 }
@@ -49,8 +45,9 @@ i {
   border-color: #d89fb0;
 }
 
-hr {
-  border-color: #e2e2e2;
+.intro-box {
+  border-top: 1px solid #e2e2e2;
+  border-bottom: 1px solid #e2e2e2;
 }
 
 @media only screen and (min-width: 60em) {
