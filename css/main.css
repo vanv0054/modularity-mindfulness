@@ -31,7 +31,7 @@ nav ul {
 
 .btn-ghost {
   background-color: transparent;
-  border-color: #d89fb0;
+  border: solid 2px #d89fb0;
   color: #b64c6e;
 }
 
