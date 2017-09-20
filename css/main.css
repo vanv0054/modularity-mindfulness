@@ -50,10 +50,22 @@ i {
   border-bottom: 2px solid #e2e2e2;
 }
 
+hr {
+  border-color: #e2e2e2;
+}
+
+footer {
+  color: grey;
+}
+
 @media only screen and (min-width: 60em) {
 
   .nav {
     text-align: right;
+  }
+
+  .logo {
+    text-align: left;
   }
 
 }
