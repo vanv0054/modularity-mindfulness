@@ -41,7 +41,7 @@ i {
 
 .txtundr {
   border-bottom: solid 2px #000;
-  display: inline;
+  display: inline-block;
   border-color: #d89fb0;
 }
 
