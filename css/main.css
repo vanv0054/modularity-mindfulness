@@ -68,4 +68,8 @@ footer {
     text-align: left;
   }
 
+  nav ul {
+    text-align: right;
+  }
+
 }
